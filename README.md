@@ -3,8 +3,11 @@
 ## Data Types, Mutability, and Collections
 
 **University:** University of Engineering and Technology, Abbottabad Campus
+
 **Class:** 5th Semester Software Engineering
+
 **Subject:** Software Construction
+
 **Date:** 08 September 2026
 
 ## Objective
